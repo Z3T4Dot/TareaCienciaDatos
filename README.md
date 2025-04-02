@@ -13,7 +13,7 @@ Este repositorio contiene un archivo de Excel con una "rueda de vida" y varios d
 
 1. Clona el repositorio:
    ```sh
-   https://github.com/EDDIE05a/CienciaDatos2828523.git
+   https://github.com/Z3T4Dot/TareaCienciaDatos.git
    ```
 2. Entra en la carpeta y abre los docuemntos que componen el proyecto.
 
